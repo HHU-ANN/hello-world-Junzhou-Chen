@@ -1,4 +1,4 @@
 # 在main中返回 Hello, World!
-
+# push again
 def main():
-    pass
+    return "Hello, World!"
